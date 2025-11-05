@@ -2,10 +2,11 @@
 
 ## Design Goals
 
-1. Univeral Ammo Distrobution amongst weapons of matching archetypes.
+1.Univeral Ammo Distrobution amongst weapons of matching archetypes.
 2. Universal Magazine amongst weapons of matching archetypes.
 3. Universal Firemodes amongst weapons of matching archetypes.
 4. Extended and Revamped AI engagement ranges allowing for AI to pose a significant threat to friendly units in combat.
+5. One Change, Far Impacts. 
 
 ## Universal Ammo Distrobution
 
@@ -22,3 +23,7 @@ See below table for an example. Vanilla most AI will begin engagement at 600 or 
 
 Example Weapon Engagement Table:
 <img width="1217" height="1333" alt="image" src="https://github.com/user-attachments/assets/49cc843d-741f-4eb3-8c8b-fe7dfc129a3c" />
+
+## One Change, Far Impacts
+
+With this editing one singular HPP file will propogate the changes across the board enabling bulk edits when balancing is required. 
