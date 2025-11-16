@@ -10,7 +10,7 @@ class Multi_Melta_Single: Single {
 	minRangeProbab = 1.0;
 	midRange = 300;
 	midRangeProbab = 1.0;
-	maxRange = 400;
+	maxRange = 500;
 	maxRangeProbab = 0.0;
 	aiRateOfFire = 1.0;
 	aiRateOfFireDispersion = 0.1;
