@@ -1,0 +1,29 @@
+class Rotor_Cannon_Auto_AI_Long_Burst: Burst {
+	requiredOpticType = 0;
+	showToPlayer = 0;
+	reloadTime = 0.08;
+	dispersion = 0.0045;
+	recoil = "recoil_pistol_light";
+	recoilProne = "recoil_prone_pistol_light";
+	minRange = 200;
+	minRangeProbab = 0.0;
+	midRange = 500;
+	midRangeProbab = 1.0;
+	maxRange = 1000;
+	maxRangeProbab = 0.0;
+	aiBurstTerminable = true;
+	burst = 35;
+	aiRateOfFire = 0.5;
+	aiRateOfFireDispersion = 0.1;
+	aiRateOfFireDistance = 100;
+	sounds[] = {"StandardSound"};
+	class BaseSoundModeType{};
+	class StandardSound
+	{
+		begin1[] = {"AoD_All_Weps\Sounds\Bolters\Bultgun_AoD_01",1.7782794,1,2000};
+		soundBegin[] = {"begin1",100};
+		soundsetshot[] = {"Autocannon35mm_Shot_SoundSet","Autocannon35mm_Tail_SoundSet"};
+	};
+	soundContinuous = 0;
+	soundBurst = 0;
+};
