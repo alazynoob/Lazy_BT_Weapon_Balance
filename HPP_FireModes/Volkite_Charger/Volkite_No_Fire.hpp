@@ -1,11 +1,11 @@
 
-class Bolter_No_Fire: Single {
+class Volkite_No_Fire: Single {
 	requiredOpticType = 0;
 	showToPlayer = 0;
 	reloadTime = 0.32;
 	dispersion = 0.0003;
-	recoil = "recoil_pistol_light";
-	recoilProne = "recoil_prone_pistol_light";
+	recoil = "LBP_No_Recoil";
+	recoilProne = "LBP_No_Recoil";
 	minRange = 500;
 	minRangeProbab = 0.0;
 	midRange = 750;

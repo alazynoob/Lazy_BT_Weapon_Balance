@@ -3,9 +3,9 @@ class Bolter_Auto: FullAuto
 		requiredOpticType = 0;
 		showToPlayer = 1;
 		reloadTime = 0.32;
-		dispersion = 0.0045;
-		recoil = "recoil_pistol_light";
-		recoilProne = "recoil_prone_pistol_light";
+		dispersion = 0.00218166;
+		recoil = "LBP_No_Recoil";
+		recoilProne = "LBP_No_Recoil";
 		minRange = 0;
 		minRangeProbab = 1.0;
 		midRange = 50;

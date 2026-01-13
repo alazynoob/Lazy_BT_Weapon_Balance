@@ -51,3 +51,4 @@
 			distance = 1;
 		};
 		SoundSetExplosion[] = {"RocketsMedium_Exp_SoundSet","RocketsMedium_Tail_SoundSet","Explosion_Debris_SoundSet"};
+		aiAmmoUsageFlags = "128 + 256 + 512";

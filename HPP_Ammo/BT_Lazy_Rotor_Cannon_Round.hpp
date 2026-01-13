@@ -19,3 +19,4 @@
 		suppressionRadiusBulletClose = 6;
 		suppressionRadiusHit = 8;
 		explosionEffects = "";
+		aiAmmoUsageFlags = "64 + 256";

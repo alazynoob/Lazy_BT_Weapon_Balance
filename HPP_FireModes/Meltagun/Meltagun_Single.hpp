@@ -4,8 +4,8 @@ class Meltagun_Single: Single {
 	showToPlayer = 1;
 	reloadTime = 1.0;
 	dispersion = 0.0003;
-	recoil = "recoil_pistol_light";
-	recoilProne = "recoil_prone_pistol_light";
+	recoil = "LBP_No_Recoil";
+	recoilProne = "LBP_No_Recoil";
 	minRange = 0;
 	minRangeProbab = 1.0;
 	midRange = 150;

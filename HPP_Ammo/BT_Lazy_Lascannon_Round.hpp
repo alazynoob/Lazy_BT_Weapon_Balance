@@ -40,4 +40,4 @@
 			hitWater = "ImpactMetalSabotBig";
 			default_mat = "ImpactMetalSabotBig";
 		};
-		aiAmmoUsageFlags = "128 + 512";
+		aiAmmoUsageFlags = "64 + 128 + 256 + 512";

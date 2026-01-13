@@ -3,8 +3,8 @@ class Rotor_Cannon_Auto: FullAuto {
 	showToPlayer = 1;
 	reloadTime = 0.08;
 	dispersion = 0.0045;
-	recoil = "recoil_pistol_light";
-	recoilProne = "recoil_prone_pistol_light";
+	recoil = "LBP_No_Recoil";
+	recoilProne = "LBP_No_Recoil";
 	minRange = 0;
 	minRangeProbab = 1.0;
 	midRange = 200;

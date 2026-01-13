@@ -20,3 +20,4 @@
 		tracerScale = 3;
 		tracerStartTime = 1e-05;
 		tracerEndTime = 15;
+		aiAmmoUsageFlags = "64 + 256";

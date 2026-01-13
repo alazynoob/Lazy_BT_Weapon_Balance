@@ -33,3 +33,4 @@
 			frequency = 0;
 			distance = 0;
 		};
+		aiAmmoUsageFlags = "64 + 128 + 256 + 512";

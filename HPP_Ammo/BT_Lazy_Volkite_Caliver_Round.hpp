@@ -25,3 +25,4 @@
 		deflecting = 0;
 		fuseDistance = 0;
 		nvgOnly = 0;
+		aiAmmoUsageFlags = "64 + 128 + 256 + 512";

@@ -1,4 +1,4 @@
-		//Missile Launcher Krak Rounds
+		//Missile Launcher Frag Rounds
 
 		hit = 200;
 		indirectHit = 100;
@@ -51,3 +51,4 @@
 			distance = 1;
 		};
 		SoundSetExplosion[] = {"RocketsMedium_Exp_SoundSet","RocketsMedium_Tail_SoundSet","Explosion_Debris_SoundSet"};
+		aiAmmoUsageFlags = "64";

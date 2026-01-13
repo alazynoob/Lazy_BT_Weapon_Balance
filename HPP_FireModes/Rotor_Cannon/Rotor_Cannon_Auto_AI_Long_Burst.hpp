@@ -3,8 +3,8 @@ class Rotor_Cannon_Auto_AI_Long_Burst: Burst {
 	showToPlayer = 0;
 	reloadTime = 0.08;
 	dispersion = 0.0045;
-	recoil = "recoil_pistol_light";
-	recoilProne = "recoil_prone_pistol_light";
+	recoil = "LBP_No_Recoil";
+	recoilProne = "LBP_No_Recoil";
 	minRange = 200;
 	minRangeProbab = 0.0;
 	midRange = 500;
