@@ -21,4 +21,5 @@
 		tracerStartTime = 1e-05;
 		tracerEndTime = 15;
 		SoundSetExplosion[] = {"Shell19mm25mm_Exp_SoundSet"};
-		aiAmmoUsageFlags = "64 + 256";		
+		aiAmmoUsageFlags = "64 + 512";	
+		cost = 1;	

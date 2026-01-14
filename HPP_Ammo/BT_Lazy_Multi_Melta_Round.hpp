@@ -34,3 +34,4 @@
 			distance = 0;
 		};
 		aiAmmoUsageFlags = "64 + 128 + 256 + 512";
+		cost = 1;

@@ -16,7 +16,6 @@
 		tracerStartTime = 0.001;
 		allowAgainstInfantry = 1;
 		cartridge = "";
-		cost = 1;
 		visibleFire = 8;
 		audibleFire = 12;
 		visibleFireTime = 3;
@@ -26,3 +25,4 @@
 		fuseDistance = 0;
 		nvgOnly = 0;
 		aiAmmoUsageFlags = "64 + 128 + 256 + 512";
+		cost = 1;

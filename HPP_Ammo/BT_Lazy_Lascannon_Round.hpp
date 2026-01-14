@@ -41,3 +41,4 @@
 			default_mat = "ImpactMetalSabotBig";
 		};
 		aiAmmoUsageFlags = "64 + 128 + 256 + 512";
+		cost = 1;

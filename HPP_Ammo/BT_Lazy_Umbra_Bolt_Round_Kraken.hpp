@@ -25,3 +25,4 @@
 		soundHit4[] = {"A3\Sounds_F\arsenal\explosives\shells\30mm40mm_shell_explosion_04",1.77828,1,1600};
 		multiSoundHit[] = {"soundHit1",0.25,"soundHit2",0.25,"soundHit3",0.25,"soundHit4",0.25};
 		aiAmmoUsageFlags = "64 + 128 + 256 + 512";
+		cost = 1;

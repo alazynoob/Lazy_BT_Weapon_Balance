@@ -26,7 +26,7 @@ class Rifle_Base_F;
   };
   class AoD_Tcombi_Basic: AoD_Tigrus_Boltgun_Basic {
     displayName = "[SM] Bolter Combi, Tigrus Pattern (AOD2-LBP)";
-    magazines[] = {"AoD_Tcombi_Bolt_Mag","AoD_Tcombi_DF_Mag","AoD_Exitus_KR_Mag"};
+    magazines[] = {"AoD_Tcombi_Bolt_Mag","AoD_Tcombi_DF_Mag","AoD_Tcombi_KR_Mag"};
     modes[] = {"Bolter_No_Fire","Bolter_Auto_AI_Short_Burst","Bolter_Auto_AI_Long_Burst","Bolter_Auto"};
     #include "..\HPP_FireModes\Bolter_Tigrus_Combi_Bolter\Bolter_No_Fire.hpp"
     #include "..\HPP_FireModes\Bolter_Tigrus_Combi_Bolter\Bolter_Auto_AI_Short_Burst.hpp"

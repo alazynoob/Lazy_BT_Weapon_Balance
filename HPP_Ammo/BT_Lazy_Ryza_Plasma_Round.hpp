@@ -23,4 +23,5 @@
 		soundHit4[] = {"A3\Sounds_F\arsenal\sfx\bullet_hits\concrete_04",1.77828,1,1300};
 		multiSoundHit[] = {"soundHit1",0.25,"soundHit2",0.25,"soundHit3",0.25,"soundHit4",0.25};
 		SoundSetExplosion[] = {"Shell19mm25mm_Exp_SoundSet"};
-		aiAmmoUsageFlags = "64 + 256";
+		aiAmmoUsageFlags = "64 + 512";
+		cost = 1;

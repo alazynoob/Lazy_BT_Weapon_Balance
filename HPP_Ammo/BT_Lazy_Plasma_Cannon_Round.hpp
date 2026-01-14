@@ -67,3 +67,4 @@
 		};
 		SoundSetExplosion[] = {"Shell105mm130mm_Exp_SoundSet","Shell105mm130mm_Tail_SoundSet","Explosion_Debris_SoundSet"};
 		aiAmmoUsageFlags = "64 + 128 + 256 + 512";
+		cost = 1;
