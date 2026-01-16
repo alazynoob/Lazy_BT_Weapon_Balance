@@ -21,5 +21,3 @@ class CfgRecoils
 	LBP_No_Recoil[] =	{ 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
 };
 #include "HPP_AmmoConfig\ammoConfig.hpp"
-#include "HPP_AOD2\AOD2_Magazines.hpp"
-#include "HPP_AOD2\AOD2.hpp"
