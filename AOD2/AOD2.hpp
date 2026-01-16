@@ -53,7 +53,7 @@ class Rifle_Base_F;
     #include "..\HPP_FireModes\Bolter_Phobos_Atrox\Bolter_Single_Slow_Extended.hpp"
     #include "..\HPP_FireModes\Bolter_Phobos_Atrox\Bolter_Single_Rapid.hpp"
   };
-  class AoD_Pcombi_Basic {
+  class AoD_Pcombi_Basic: AoD_Phobos_Boltgun_Basic {
     displayName = "[SM] Bolter Combi, Phobos Pattern (AOD2-LBP)";
     magazines[] = {"AoD_Pcombi_Bolt_Mag","AoD_Pcombi_DF_Mag","AoD_Pcombi_KR_Mag"};
     modes[] = {"Bolter_No_Fire","Bolter_Auto_AI_Short_Burst","Bolter_Auto_AI_Long_Burst","Bolter_Auto"};
