@@ -1,0 +1,28 @@
+class XtdGearModels {
+    class CfgWeapons {
+         #include "XtdGearModels\config\CfgWeapons\M36KantRifle.hpp"
+         #include "XtdGearModels\config\CfgWeapons\TIOW_LongLas.hpp"
+         #include "XtdGearModels\config\CfgWeapons\TIOW_Bolt_Pistol2.hpp"
+         #include "XtdGearModels\config\CfgWeapons\Lucius98Lasgun.hpp"
+         #include "XtdGearModels\config\CfgWeapons\LuciusLaspistol.hpp"
+         #include "XtdGearModels\config\CfgWeapons\MissileLauncherDKOK.hpp"
+         #include "XtdGearModels\config\CfgWeapons\Type14Heavy.hpp"
+         #include "XtdGearModels\config\CfgWeapons\Antioc43Lasgun.hpp"
+         #include "XtdGearModels\config\CfgWeapons\DK_PlasmaGun.hpp"
+         #include "XtdGearModels\config\CfgWeapons\TIOW_ion_rifle.hpp"
+         #include "XtdGearModels\config\CfgWeapons\TIOW_pulse_blaster.hpp"
+         #include "XtdGearModels\config\CfgWeapons\TIOW_pulse_carbine.hpp"
+         #include "XtdGearModels\config\CfgWeapons\TIOW_pulse_pistol.hpp"
+         #include "XtdGearModels\config\CfgWeapons\TIOW_pulse_rifle.hpp"
+         #include "XtdGearModels\config\CfgWeapons\TIOW_rail_rifle.hpp"
+         #include "XtdGearModels\config\CfgWeapons\AgripinaaAutoIG1.hpp"
+         #include "XtdGearModels\config\CfgWeapons\TIOW_AgripinaaType2_1.hpp"
+         #include "XtdGearModels\config\CfgWeapons\TIOW_GodwynBoltgun.hpp"
+         #include "XtdGearModels\config\CfgWeapons\Shoota1.hpp"
+         #include "XtdGearModels\config\CfgWeapons\TIOW_GaussFlayer_Base.hpp"
+         #include "XtdGearModels\config\CfgWeapons\TIOW_StaffOfLight_Base.hpp"
+         #include "XtdGearModels\config\CfgWeapons\TIOW_SM_Ragefire_PlasmaGun.hpp"
+         #include "XtdGearModels\config\CfgWeapons\TIOW_Mars_HeavyBolter.hpp"
+         #include "XtdGearModels\config\CfgWeapons\TIOW_SM_MeltaGun_01.hpp"
+    };
+};

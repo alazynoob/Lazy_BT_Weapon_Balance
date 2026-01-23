@@ -7,8 +7,7 @@ class CfGPatches {
 		requiredAddons[] = {
 			"A3_Weapons_F",
 			"A3_Data_F",
-			"A3_Soft_F",
-			"AoD_All_Weps",
+			"A3_Soft_F"
 		};
 		weapons[] = {    
 	    };
