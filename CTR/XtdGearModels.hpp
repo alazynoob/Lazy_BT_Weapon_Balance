@@ -1,0 +1,26 @@
+class XtdGearModels {
+    class CfgWeapons {
+         #include "XtdGearModels\config\CfgWeapons\CTR_Bolt_Rifle.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Bolt_Rifle_GL.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Auto_Bolt_Rifle.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Auto_Bolt_Rifle_GL.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Stalker_Bolt_Rifle.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Stalker_Bolt_Rifle_GL.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Assault_Plasma_Incinerator.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Heavy_Plasma_Incinerator.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Shrike_Sniper.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Las_Fusil.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Bolt_Carbine.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Occulus_Bolt_Carbine.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Marksman_Bolt_Carbine.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Assault_Bolter.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Plasma_Exterminator.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Melta_Rifle.hpp" 
+         #include "XtdGearModels\config\CfgWeapons\CTR_Heavy_Bolt_Rifle.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Combi_Plasma_Rifle.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Melta_Combi_Bolter.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Sternguard_Bolt_Rifle.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Pyreblaster.hpp"
+         #include "XtdGearModels\config\CfgWeapons\CTR_Combi_Flamer.hpp" 
+    };
+};
