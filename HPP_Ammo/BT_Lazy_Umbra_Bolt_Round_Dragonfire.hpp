@@ -1,6 +1,6 @@
 		//Bolt Round Umbra Round Dragonfire from AOD Umbra base and AOD Tigrus Dragonfire
 
-		hit = 30; // <--
+		hit = 80; // <--
 		model = "AoD_All_Weps\Extra\Tracers\Red_Bolter_Tracer.p3d"; // <--
 		indirectHit = 12; // <--
 		indirectHitRange = 3; // <--

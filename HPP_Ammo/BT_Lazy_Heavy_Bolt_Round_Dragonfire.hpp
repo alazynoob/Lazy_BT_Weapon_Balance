@@ -1,6 +1,6 @@
 		//Bolt Round Heavy Round Dragonfire from AOD2
 
-		hit = 85;
+		hit = 100;
 		model = "AoD_All_Weps\Extra\Tracers\Red_Bolter_Tracer.p3d";
 		indirectHit = 14;
 		indirectHitRange = 5;

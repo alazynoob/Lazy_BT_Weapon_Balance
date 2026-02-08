@@ -1,6 +1,6 @@
 		//Bolt Round Tigrus Round Kraken from AOD2
 
-		hit = 40;
+		hit = 150;
 		model = "AoD_All_Weps\Extra\Tracers\Red_Bolter_Tracer.p3d";
 		indirectHit = 6;
 		indirectHitRange = 0.3;

@@ -1,7 +1,7 @@
 		//Missile Launcher Frag Rounds
 
-		hit = 200;
-		indirectHit = 100;
+		hit = 400;
+		indirectHit = 200;
 		indirectHitRange = 10;
 		visibleFire = 32;
 		audibleFire = 32;

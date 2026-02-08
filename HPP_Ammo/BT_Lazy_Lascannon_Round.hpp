@@ -1,6 +1,6 @@
 		//AOD2 Lascannon Round
 
-		hit = 400;
+		hit = 450;
 		cartridge = "";
 		simulation = "shotBullet";
 		tracerScale = 1;

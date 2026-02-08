@@ -1,6 +1,6 @@
 		//Bolt Round Tigrus Exitus Round Dragonfire from AOD2
 
-		hit = 50;
+		hit = 120;
 		model = "AoD_All_Weps\Extra\Tracers\Red_Bolter_Tracer.p3d"; // <--
 		indirectHit = 12; // <--
 		indirectHitRange = 3; // <--

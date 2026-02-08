@@ -1,7 +1,7 @@
 		//AOD2 Autocannon Round HE
 
-		hit = 135;
-		indirectHit = 27;
+		hit = 300;
+		indirectHit = 100;
 		indirectHitRange = 8;
 		warheadName = "HE";
 		dangerRadiusHit = 30;

@@ -2,7 +2,7 @@
 
 		model = "\AoD_All_Weps\Extra\MuzzleFlash\Volkite_Bolt";
 		typicalSpeed = 1000;
-		hit = 70;
+		hit = 350;
 		caliber = 6;
 		explosive = 0.25;
 		tracerScale = 1;

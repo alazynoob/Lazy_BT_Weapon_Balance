@@ -1,8 +1,8 @@
 		//Bolt Round Phobos Atrox Round Dragonfire from AOD2
 
-		hit = 75;
+		hit = 150;
 		model = "AoD_All_Weps\Extra\Tracers\Red_Bolter_Tracer.p3d";
-		indirectHit = 14;
+		indirectHit = 30;
 		indirectHitRange = 3;
 		airFriction = -0.0004; 
 		timeToLive = 15;

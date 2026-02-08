@@ -1,6 +1,6 @@
 		//Bolt Round Tigrus Exitus Round from AOD2
 
-		hit = 50;
+		hit = 120;
 		model = "AoD_All_Weps\Extra\Tracers\Yellow_Bolter_Tracer.p3d";
 		indirectHit = 6;
 		indirectHitRange = 0.3;

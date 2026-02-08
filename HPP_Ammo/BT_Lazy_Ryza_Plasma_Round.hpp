@@ -1,7 +1,7 @@
 		//AOD Ryza Plasma Round
 
 		craterShape = "\a3\Data_f_orange\data\krater_maly";
-		hit = 90;
+		hit = 125;
 		indirectHit = 20;
 		timeToLive = 15;
 		explosive = 0.25;

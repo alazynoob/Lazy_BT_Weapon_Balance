@@ -1,6 +1,6 @@
 		//Bolt Round Phobos Round Kraken from AOD2
 
-		hit = 65;
+		hit = 200;
 		model = "AoD_All_Weps\Extra\Tracers\Red_Bolter_Tracer.p3d";
 		indirectHit = 6;
 		indirectHitRange = 0.3;

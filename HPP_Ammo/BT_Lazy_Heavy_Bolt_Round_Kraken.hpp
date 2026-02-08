@@ -1,6 +1,6 @@
 		//Bolt Round Heavy Round Kraken from AOD2
 
-		hit = 85;
+		hit = 150;
 		model = "AoD_All_Weps\Extra\Tracers\Red_Bolter_Tracer.p3d";
 		indirectHit = 6;
 		indirectHitRange = 1;

@@ -1,5 +1,5 @@
 		//Bolt Round Umbra Round Kraken Modified from AOD2 Umbra Base & Tigrus Kraken
-		hit = 30;
+		hit = 200;
 		model = "AoD_All_Weps\Extra\Tracers\Red_Bolter_Tracer.p3d";
 		indirectHit = 6;
 		indirectHitRange = 0.3;

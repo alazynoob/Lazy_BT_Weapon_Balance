@@ -1,6 +1,6 @@
 		//Missile Launcher Krak Rounds
 
-		hit = 250;
+		hit = 500;
 		indirectHit = 20;
 		indirectHitRange = 0.3;
 		visibleFire = 32;

@@ -1,9 +1,9 @@
 		//Bolt Round Heavy Round Base from AOD2
 
-		hit = 60;
+		hit = 100;
 		model = "AoD_All_Weps\Extra\Tracers\Yellow_Bolter_Tracer.p3d";
 		indirectHit = 10;
-		indirectHitRange = 2;
+		indirectHitRange = 2.5;
 		airFriction = -0.0004;
 		timeToLive = 15;
 		visibleFire = 32;

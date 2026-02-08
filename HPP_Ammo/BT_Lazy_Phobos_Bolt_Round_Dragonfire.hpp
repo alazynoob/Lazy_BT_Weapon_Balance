@@ -1,6 +1,6 @@
 		//Bolt Round Phobos Round Dragonfire from AOD2
 
-		hit = 65;
+		hit = 80;
 		model = "AoD_All_Weps\Extra\Tracers\Red_Bolter_Tracer.p3d";
 		indirectHit = 14;
 		indirectHitRange = 3;

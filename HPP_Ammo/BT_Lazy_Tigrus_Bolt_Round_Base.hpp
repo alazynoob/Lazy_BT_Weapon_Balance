@@ -1,6 +1,6 @@
 		//Bolt Round Tigrus Round Base from AOD2
 
-		hit = 30;
+		hit = 80;
 		model = "AoD_All_Weps\Extra\Tracers\Yellow_Bolter_Tracer.p3d";
 		indirectHit = 6;
 		indirectHitRange = 0.3;

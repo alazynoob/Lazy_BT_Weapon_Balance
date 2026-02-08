@@ -1,8 +1,8 @@
 		//AOD Ryza Plasma Overcharge Round
 
 		craterShape = "\a3\Data_f_orange\data\krater_maly";
-		hit = 250;
-		indirectHit = 60;
+		hit = 700;
+		indirectHit = 300;
 		timeToLive = 6;
 		indirectHitRange = 6;
 		typicalSpeed = 100;
