@@ -2,7 +2,7 @@ class Autocannon_Auto: FullAuto
 	{
 		requiredOpticType = 0;
 		showToPlayer = 1;
-		reloadTime = 0.42;
+		reloadTime = 0.60;
 		dispersion = 0.00218166;
 		recoil = "LBP_No_Recoil";
 		recoilProne = "LBP_No_Recoil";

@@ -2,7 +2,7 @@
 class Plasma_Gun_No_Fire: Single {
 	requiredOpticType = 0;
 	showToPlayer = 0;
-	reloadTime = 0.8;
+	reloadTime = 999;
 	dispersion = 0.0003;
 	recoil = "LBP_No_Recoil";
 	recoilProne = "LBP_No_Recoil";

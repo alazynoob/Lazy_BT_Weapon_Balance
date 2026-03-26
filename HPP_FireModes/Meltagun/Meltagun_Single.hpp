@@ -2,7 +2,7 @@
 class Meltagun_Single: Single {
 	requiredOpticType = 0;
 	showToPlayer = 1;
-	reloadTime = 1.0;
+	reloadTime = 2.0;
 	dispersion = 0.0003;
 	recoil = "LBP_No_Recoil";
 	recoilProne = "LBP_No_Recoil";

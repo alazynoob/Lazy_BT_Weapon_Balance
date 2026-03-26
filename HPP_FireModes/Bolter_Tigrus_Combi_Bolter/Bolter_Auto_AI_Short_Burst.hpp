@@ -2,7 +2,7 @@ class Bolter_Auto_AI_Short_Burst: Burst
 	{
 		requiredOpticType = 0;
 		showToPlayer = 0;
-		reloadTime = 0.045;
+		reloadTime = 0.09;
 		dispersion = 0.00218166;
 		recoil = "LBP_No_Recoil";
 		recoilProne = "LBP_No_Recoil";

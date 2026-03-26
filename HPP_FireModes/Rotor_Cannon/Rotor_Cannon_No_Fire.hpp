@@ -1,7 +1,7 @@
 class Rotor_Cannon_No_Fire: Single {
 	requiredOpticType = 0;
 	showToPlayer = 0;
-	reloadTime = 0.08;
+	reloadTime = 999;
 	dispersion = 0.0003;
 	recoil = "LBP_No_Recoil";
 	recoilProne = "LBP_No_Recoil";

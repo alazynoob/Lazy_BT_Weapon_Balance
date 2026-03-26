@@ -2,7 +2,7 @@
 class Bolter_No_Fire: Single {
 	requiredOpticType = 0;
 	showToPlayer = 0;
-	reloadTime = 0.25;
+	reloadTime = 999;
 	dispersion = 0.000290888;
 	recoil = "LBP_No_Recoil";
 	recoilProne = "LBP_No_Recoil";

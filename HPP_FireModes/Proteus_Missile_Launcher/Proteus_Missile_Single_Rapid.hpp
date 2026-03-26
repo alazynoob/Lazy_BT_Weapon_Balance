@@ -7,10 +7,10 @@ class Proteus_Missile_Single_Rapid: Single {
 	recoil = "LBP_No_Recoil";
 	recoilProne = "LBP_No_Recoil";
 	minRange = 0;
-	minRangeProbab = 0.0;
-	midRange = 500;
+	minRangeProbab = 1.0;
+	midRange = 400;
 	midRangeProbab = 1.0;
-	maxRange = 700;
+	maxRange = 500;
 	maxRangeProbab = 0.0;
 	aiRateOfFire = 0.5;
 	aiRateOfFireDispersion = 0.1;

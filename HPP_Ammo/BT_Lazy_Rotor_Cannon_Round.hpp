@@ -1,6 +1,6 @@
 		//AOD Rotor Cannon Round
 
-		hit = 80;
+		hit = 50;
 		model = "AoD_All_Weps\Extra\Tracers\Yellow_Bolter_Tracer.p3d";
 		indirectHit = 1;
 		indirectHitRange = 0.5;

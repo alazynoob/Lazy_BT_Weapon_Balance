@@ -2,7 +2,7 @@
 
 		hit = 400;
 		indirectHit = 200;
-		indirectHitRange = 10;
+		indirectHitRange = 5;
 		visibleFire = 32;
 		audibleFire = 32;
 		visibleFireTime = 2;

@@ -1,6 +1,6 @@
 		//Bolt Round Phobos Round Base from AOD2
 
-		hit = 80;
+		hit = 100;
 		model = "AoD_All_Weps\Extra\Tracers\Yellow_Bolter_Tracer.p3d";
 		indirectHit = 6;
 		indirectHitRange = 0.3;

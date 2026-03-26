@@ -2,17 +2,17 @@
 class Proteus_Missile_Single_Slow: Single {
 	requiredOpticType = 0;
 	showToPlayer = 0;
-	reloadTime = 0.5;
+	reloadTime = 1.5;
 	dispersion = 0.0003;
 	recoil = "LBP_No_Recoil";
 	recoilProne = "LBP_No_Recoil";
-	minRange = 700;
+	minRange = 500;
 	minRangeProbab = 0.0
-	midRange = 1600;
+	midRange = 1600;s
 	midRangeProbab = 1.0
 	maxRange = 2000;
 	maxRangeProbab = 0.0
-	aiRateOfFire = 1.0;
+	aiRateOfFire = 1.5;
 	aiRateOfFireDispersion = 0.2;
 	aiRateOfFireDistance = 500;
 	sounds[] = {"StandardSound"};
