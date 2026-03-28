@@ -12,7 +12,7 @@ class Bolter_Single_Slow: Single {
 	midRangeProbab = 1.0;
 	maxRange = 1000;
 	maxRangeProbab = 0.0;
-	aiRateOfFire = .75;
+	aiRateOfFire = 0.75;
 	aiRateOfFireDispersion = 0.1;
 	aiRateOfFireDistance = 500;
 	sounds[] = {"StandardSound"};

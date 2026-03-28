@@ -178,9 +178,9 @@ class Rifle_Base_F;
     #include "..\HPP_FireModes\Rotor_Cannon\Rotor_Cannon_Auto_AI_Long_Burst.hpp"
     #include "..\HPP_FireModes\Rotor_Cannon\Rotor_Cannon_Auto.hpp"
   };
-  // class AoD_Volkite_Culverin: AoD_Volkite_Charger {
-  //   displayName = "[SM] Volkite, Culverin Pattern (AOD2-LBP)";
-  // };
+  class AoD_Volkite_Culverin: AoD_Volkite_Charger {
+    displayName = "[SM] Volkite, Culverin Pattern (AOD2-LBP)";
+  };
   class AoD_Missile_Launcher_Under: AoD_Tigrus_Boltgun_Basic {
     displayName = "[SM] Missile Launcher, Proteus-II Pattern (AOD2-LBP)";
     magazines[] = {"AoD_Missile_Launcher_KR_Mag","AoD_Missile_Launcher_FRG_Mag"};

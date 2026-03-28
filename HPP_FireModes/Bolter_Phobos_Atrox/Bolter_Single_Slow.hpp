@@ -7,11 +7,11 @@ class Bolter_Single_Slow: Single {
 	recoil = "LBP_No_Recoil";
 	recoilProne = "LBP_No_Recoil";
 	minRange = 700;
-	minRangeProbab = 0.0
+	minRangeProbab = 0.0;
 	midRange = 1600;
-	midRangeProbab = 1.0
+	midRangeProbab = 1.0;
 	maxRange = 2000;
-	maxRangeProbab = 0.0
+	maxRangeProbab = 0.0;
 	aiRateOfFire = 1.0;
 	aiRateOfFireDispersion = 0.2;
 	aiRateOfFireDistance = 500;
